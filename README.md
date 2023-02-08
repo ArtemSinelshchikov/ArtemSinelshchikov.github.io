@@ -1,2 +1,2 @@
 # ArtemSinelshchikov.github.io
-Сайт-визитка на HTML+CSS+JavaScript (JS)
+Репозиторий для публикации сайта-витки и игр на JS+HTML+CSS
